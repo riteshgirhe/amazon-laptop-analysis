@@ -1,0 +1,978 @@
+Brand,Price,Rating,Ram,Color,Processor,Storage_Gb
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Lenovo,44999.0,4.0,8.0,Silver,AMD,512.0
+ASUS,65990.0,4.1,16.0,Blue,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Gray,Apple M5,1000.0
+ASUS,67990.0,4.0,16.0,Silver,Apple M365,512.0
+Dell,69990.0,3.8,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+HP,115990.0,3.6,16.0,Silver,Intel,1000.0
+Acer,44990.0,4.1,8.0,Silver,Apple A114,256.0
+Acer,35990.0,1.0,8.0,Silver,Apple A114,256.0
+HP,44990.0,4.2,12.0,Silver,Apple M365,512.0
+HP,69790.0,4.0,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+ASUS,28990.0,4.3,4.0,Gray,MediaTek,64.0
+Acer,49990.0,3.7,8.0,Silver,Apple M365,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,95990.0,4.1,6.0,Blue,AMD,512.0
+HP,49350.0,4.1,8.0,Silver,AMD,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Lenovo,69999.0,3.8,16.0,Gray,AMD,512.0
+Apple,83490.0,4.8,8.0,Gray,Apple A18,512.0
+ASUS,82990.0,4.2,16.0,Silver,Apple M365,512.0
+Acer,47990.0,3.8,8.0,Silver,Apple A114,512.0
+Lenovo,55990.0,4.1,8.0,Gray,AMD,512.0
+Lenovo,56800.0,5.0,16.0,Gray,AMD,512.0
+Lenovo,54058.0,4.6,8.0,Gray,Intel,512.0
+HP,58990.0,4.3,16.0,Silver,Intel,512.0
+HP,67400.0,3.9,16.0,Silver,Apple M365,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Lenovo,87990.0,4.2,24.0,Gray,Intel,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+HP,42999.0,3.2,8.0,Black,Intel,512.0
+HP,85990.0,3.3,24.0,Silver,Apple M365,1000.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,68699.0,3.0,16.0,Silver,Apple M365,512.0
+HP,84990.0,4.0,16.0,Silver,Snapdragon,1000.0
+Acer,44990.0,5.0,8.0,Silver,AMD,256.0
+ASUS,24990.0,3.7,4.0,Blue,MediaTek,64.0
+Acer,39890.0,3.3,12.0,Silver,Apple A325,512.0
+ASUS,48990.0,3.5,8.0,Silver,Apple M365,512.0
+Lenovo,67999.0,4.2,16.0,Gray,AMD,512.0
+HP,77990.0,3.0,16.0,Silver,Apple M365,512.0
+Lenovo,98990.0,3.7,16.0,Gray,Intel,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+HP,129990.0,4.1,8.0,Silver,Apple M365,1000.0
+Lenovo,56690.0,3.6,16.0,Gray,AMD,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,65990.0,3.9,16.0,Silver,Apple M365,1000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Lenovo,98990.0,3.7,16.0,Gray,Intel,512.0
+ASUS,63990.0,4.1,16.0,Silver,Apple M365,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,132990.0,4.0,6.0,Gray,AMD,512.0
+Lenovo,61200.0,4.2,16.0,Gray,AMD,512.0
+Dell,87990.0,4.1,16.0,Silver,Intel,512.0
+Acer,49990.0,4.0,8.0,Gray,Intel,512.0
+HP,66750.0,4.7,8.0,Silver,Apple M365,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Acer,84990.0,2.8,32.0,Black,AMD,1000.0
+HP,54990.0,3.0,8.0,Silver,Apple M365,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Dell,66690.0,5.0,16.0,White,Intel,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Acer,48990.0,4.0,8.0,Gray,Apple M365,256.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+ASUS,42990.0,4.5,8.0,Silver,MediaTek,128.0
+Apple,222990.0,5.0,24.0,White,Apple M5,1000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,63990.0,3.6,16.0,Silver,Apple M365,512.0
+Acer,42032.0,1.0,8.0,Gray,Apple A325,512.0
+Dell,85890.0,4.5,16.0,Silver,Intel,512.0
+Lenovo,84990.0,3.8,16.0,Blue,Intel,512.0
+HP,149990.0,4.2,8.0,Black,Apple M365,1000.0
+Lenovo,57250.0,3.9,16.0,Gray,AMD,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+Lenovo,57250.0,3.9,16.0,Gray,AMD,512.0
+HP,69990.0,4.0,16.0,Silver,Intel,512.0
+Lenovo,68490.0,3.9,16.0,Gray,AMD,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+HP,68480.0,5.0,16.0,Silver,Intel,512.0
+Dell,82990.0,3.7,16.0,Silver,Intel,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+HP,149990.0,4.2,8.0,Black,Apple M365,1000.0
+ASUS,140999.0,3.5,8.0,Black,Apple M365,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Lenovo,482490.0,5.0,24.0,Black,Intel,1000.0
+HP,43950.0,4.0,8.0,Silver,AMD,256.0
+Acer,54650.0,3.8,8.0,Silver,Apple A325,512.0
+HP,89990.0,5.0,4.0,Silver,Apple M365,512.0
+Acer,41890.0,1.6,8.0,Black,AMD,512.0
+HP,136990.0,4.4,8.0,Black,Apple M365,1000.0
+Lenovo,169890.0,3.6,16.0,Gray,AMD,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+HP,166990.0,4.0,8.0,Black,Apple M365,1000.0
+Lenovo,68490.0,3.9,16.0,Gray,AMD,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Lenovo,49400.0,4.0,8.0,Gray,AMD,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Gray,Apple A18,512.0
+Dell,58990.0,3.8,16.0,Black,Intel,512.0
+Lenovo,126790.0,4.5,16.0,Gray,Intel,1000.0
+Acer,41890.0,1.6,8.0,Black,AMD,512.0
+ASUS,334990.0,4.3,128.0,Black,Apple M365,1000.0
+Apple,194990.0,4.8,24.0,Blue,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+Alienware,531490.0,4.5,24.0,Black,Intel,2000.0
+ASUS,334990.0,4.3,128.0,Black,Apple M365,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Lenovo,68490.0,3.9,16.0,Gray,AMD,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Lenovo,124800.0,5.0,16.0,Black,Intel,512.0
+Apple,194990.0,4.8,24.0,Blue,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,White,Apple A18,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+ASUS,66990.0,4.1,16.0,Blue,Apple M365,512.0
+Lenovo,165000.0,4.3,8.0,Gray,Intel,1000.0
+Acer,87900.0,4.0,6.0,Gray,Intel,512.0
+HP,82990.0,3.8,16.0,Silver,Apple M365,1000.0
+HP,93990.0,5.0,16.0,Black,Intel,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Acer,52990.0,2.8,8.0,Silver,Apple M365,500.0
+Lenovo,78100.0,4.5,16.0,Gray,Intel,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,White,Apple A18,512.0
+Lenovo,231490.0,4.0,8.0,Black,Intel,1000.0
+ASUS,60650.0,4.0,16.0,Black,Apple M365,512.0
+HP,62500.0,1.0,16.0,Silver,Intel,512.0
+ASUS,102990.0,4.7,4.0,Black,Apple M365,512.0
+HP,57880.0,4.0,16.0,Silver,AMD,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+HP,55100.0,3.8,8.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+ASUS,71990.0,4.1,16.0,Blue,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,White,Apple A18,512.0
+Acer,44990.0,1.0,8.0,Gray,Apple M365,512.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Lenovo,155990.0,3.7,32.0,Gray,Intel,1000.0
+ASUS,58990.0,3.0,8.0,Silver,Apple M365,512.0
+Samsung,69990.0,4.4,16.0,Silver,Intel,512.0
+Lenovo,185490.0,3.5,8.0,Black,AMD,1000.0
+HP,68480.0,3.8,16.0,Silver,Intel,512.0
+Acer,53900.0,3.7,16.0,Black,AMD,512.0
+HP,85990.0,3.3,24.0,Silver,Apple M365,1000.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+Acer,53900.0,3.7,16.0,Black,AMD,512.0
+Samsung,69990.0,4.4,16.0,Silver,Intel,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,83465.0,3.6,24.0,Silver,Apple M365,1000.0
+HP,68480.0,3.8,16.0,Silver,Intel,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Gray,Apple A18,512.0
+Lenovo,185490.0,3.5,8.0,Black,AMD,1000.0
+Lenovo,141499.0,4.4,32.0,Gray,Intel,1000.0
+ASUS,55990.0,4.3,8.0,Silver,Apple M365,512.0
+HP,91289.0,3.4,4.0,Silver,Apple M365,1000.0
+HP,114990.0,4.3,16.0,Blue,Snapdragon,1000.0
+Lenovo,175000.0,3.9,16.0,Gray,Intel,1000.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+ASUS,239990.0,3.1,32.0,White,Apple M365,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Lenovo,70849.0,4.4,16.0,Gray,Intel,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Gray,Apple A18,512.0
+Lenovo,59950.0,5.0,8.0,Gray,Intel,512.0
+Samsung,69299.0,4.1,16.0,Gray,Intel,512.0
+HP,148000.0,4.1,8.0,Silver,Apple M365,1000.0
+Lenovo,54680.0,4.2,8.0,Gray,Intel,512.0
+Lenovo,136990.0,5.0,16.0,Gray,Intel,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Acer,48990.0,5.0,8.0,White,AMD,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+ASUS,54990.0,5.0,8.0,Silver,Apple M365,512.0
+Dell,105540.0,3.4,6.0,Gray,Intel,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Black,Apple A18,512.0
+Lenovo,136990.0,5.0,16.0,Gray,Intel,512.0
+Microsoft,162990.0,3.4,16.0,Gray,Snapdragon,512.0
+HP,49990.0,3.8,8.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Dell,105540.0,3.4,6.0,Gray,Intel,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Samsung,69299.0,4.1,16.0,Gray,Intel,512.0
+Apple,83490.0,4.8,8.0,White,Apple A18,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,49990.0,3.8,8.0,Silver,Apple M365,512.0
+HP,88990.0,4.0,16.0,Silver,Apple M365,512.0
+ASUS,209780.0,5.0,32.0,Gray,Apple M365,1000.0
+HP,54500.0,4.2,8.0,Gray,Intel,512.0
+HP,85024.0,4.0,16.0,Silver,Intel,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,72900.0,3.9,16.0,Silver,Apple M365,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Lenovo,67990.0,3.9,16.0,Gray,Intel,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Gray,Apple A18,512.0
+Lenovo,72900.0,4.0,16.0,Gray,Intel,512.0
+Dell,52680.0,3.7,8.0,Blue,Intel,512.0
+Microsoft,134990.0,5.0,16.0,Gray,Snapdragon,256.0
+Dell,103990.0,5.0,16.0,Silver,Intel,512.0
+Lenovo,56999.0,4.1,8.0,Gray,Intel,512.0
+HP,94990.0,4.0,16.0,Blue,Intel,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,94990.0,4.0,16.0,Blue,Intel,512.0
+Lenovo,56999.0,4.1,8.0,Gray,Intel,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Lenovo,174500.0,4.9,8.0,Gray,AMD,1000.0
+Apple,83490.0,4.8,8.0,Silver,Apple A18,512.0
+ASUS,431990.0,2.6,16.0,Black,Apple M365,2000.0
+Lenovo,199990.0,4.5,32.0,Silver,Intel,1000.0
+ASUS,94990.0,5.0,16.0,Blue,Apple M365,512.0
+Alienware,999990.0,1.0,16.0,Black,Intel,2000.0
+ASUS,529990.0,5.0,24.0,Black,Apple M365,2000.0
+ASUS,28990.0,4.3,4.0,Gray,MediaTek,64.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Dell,56086.0,3.0,16.0,Silver,AMD,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Gray,Apple A18,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Acer,87999.0,3.5,6.0,Gray,Intel,512.0
+Lenovo,103990.0,4.5,16.0,Gray,Intel,1000.0
+Lenovo,273490.0,5.0,8.0,White,Intel,1000.0
+Lenovo,48990.0,4.0,8.0,Silver,AMD,512.0
+Acer,50999.0,3.4,8.0,Black,AMD,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Lenovo,273490.0,5.0,8.0,White,Intel,1000.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Lenovo,48990.0,4.0,8.0,Silver,AMD,512.0
+Apple,83490.0,4.8,8.0,Gray,Apple A18,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Acer,50999.0,3.4,8.0,Black,AMD,512.0
+Lenovo,68490.0,3.9,16.0,Gray,AMD,512.0
+HP,89900.0,3.4,16.0,Silver,Intel,512.0
+HP,44604.0,1.0,8.0,White,AMD,256.0
+Acer,44999.0,5.0,8.0,White,AMD,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Lenovo,69999.0,4.1,16.0,Gray,Intel,1000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,56000.0,4.2,8.0,Silver,Apple M365,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Lenovo,96500.0,4.0,6.0,Gray,Intel,512.0
+Lenovo,82970.0,4.0,16.0,White,AMD,512.0
+Acer,51990.0,3.3,16.0,Gray,AMD,512.0
+HP,68990.0,3.6,16.0,Silver,Apple M365,512.0
+HP,75990.0,3.6,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Lenovo,83400.0,4.1,16.0,Gray,Intel,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Lenovo,68490.0,3.9,16.0,Gray,AMD,512.0
+Apple,513990.0,2.4,36.0,Silver,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Silver,Apple A18,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Silver,Apple A18,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,84990.0,4.0,16.0,Silver,Snapdragon,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,342490.0,4.5,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,84990.0,4.0,16.0,Silver,Snapdragon,1000.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,475490.0,5.0,36.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,84990.0,4.0,16.0,Silver,Snapdragon,1000.0
+Apple,200490.0,4.7,16.0,White,Apple M5,1000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,84990.0,4.0,16.0,Silver,Snapdragon,1000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,342490.0,4.5,24.0,Black,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Gray,Apple A18,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Apple,513990.0,2.4,36.0,Silver,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,84990.0,4.0,16.0,Silver,Snapdragon,1000.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,475490.0,5.0,36.0,Silver,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,200490.0,4.7,16.0,Gray,Apple M5,1000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Black,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,342490.0,4.5,24.0,Black,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Black,Apple A18,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Black,Apple M5,1000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,475490.0,5.0,36.0,Silver,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Black,Apple A18,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Silver,Apple A18,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Gray,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Silver,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Silver,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Silver,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Silver,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,White,Apple M5,1000.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,White,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Gray,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,222990.0,5.0,24.0,Silver,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,White,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Black,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Gray,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,68490.0,3.9,16.0,Gray,AMD,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,White,Apple M5,1000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,White,Apple M5,1000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,222990.0,5.0,24.0,Gray,Apple M5,1000.0
+Apple,172490.0,4.7,16.0,White,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Black,Apple M5,1000.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,475490.0,5.0,36.0,Silver,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,200490.0,4.7,16.0,Gray,Apple M5,1000.0
+Apple,194990.0,4.8,24.0,White,Apple M5,1000.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,200490.0,4.7,16.0,Black,Apple M5,1000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,222990.0,5.0,24.0,Gray,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,White,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,White,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Gray,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Gray,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,342490.0,4.6,24.0,Silver,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Gray,Apple M5,1000.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Gray,Apple M5,1000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Gray,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,222990.0,5.0,24.0,Silver,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Silver,Apple M5,1000.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,54990.0,4.4,8.0,Gray,AMD,512.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,200490.0,4.7,16.0,Black,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Silver,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,200490.0,4.7,16.0,Black,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,475490.0,5.0,36.0,Silver,Apple M5,2000.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Gray,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,Silver,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,222990.0,5.0,24.0,Gray,Apple M5,1000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Silver,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Silver,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,White,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.8,8.0,Black,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Gray,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,White,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.8,8.0,Gray,Apple A18,256.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,172490.0,4.7,16.0,Silver,Apple M5,1000.0
+Apple,200490.0,4.7,16.0,Black,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,White,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,513990.0,2.4,36.0,Black,Apple M5,2000.0
+Apple,194990.0,4.8,24.0,Black,Apple M5,1000.0
+Apple,73990.0,4.8,8.0,White,Apple A18,256.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,200490.0,4.7,16.0,White,Apple M5,1000.0
+HP,79990.0,4.1,16.0,Silver,Snapdragon,512.0
+Lenovo,70990.0,3.6,16.0,Gray,Intel,512.0
+Apple,464490.0,5.0,36.0,Black,Apple M5,2000.0
+Apple,172490.0,4.7,16.0,Blue,Apple M5,1000.0
+Apple,222990.0,5.0,24.0,Black,Apple M5,1000.0
+Apple,83490.0,4.8,8.0,Indigo,Apple A18,512.0
+HP,69990.0,3.4,16.0,Silver,Apple M365,512.0
+Apple,73990.0,4.7,8.0,Silver,Apple A18,256.0
+Apple,589990.0,4.3,48.0,Black,Apple M5,2000.0
